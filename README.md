@@ -34,12 +34,9 @@ Welcome to my GitHub profile! I'm a versatile professional passionate about web 
 ## 📫 Connect With Me
 Feel free to reach out:  
 **📧 Email:** [iabidmajeed1@gmail.com](mailto:iabidmajeed1@gmail.com)  
-**🌍 LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/abid-majeed-web-developer/)  
+**🌍 LinkedIn:** [LinkedIn](https://www.linkedin.com/in/abid-majeed-web-developer/)  
 
 Let's **collaborate and create something amazing!** 😊🚀  
 
 ---
 
-## 📊 GitHub Stats
-![Abid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabidmajeed&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabidmajeed&layout=compact&theme=radical)
